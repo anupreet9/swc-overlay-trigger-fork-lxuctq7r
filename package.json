@@ -1,0 +1,14 @@
+{
+  "name": "@wcd/anupreet9.swc-overlay-trigger-fork-lxuctq7r",
+  "version": "0.0.0",
+  "description": "",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve XFSveHCxceuZDrFM1Ob7 --open"
+  },
+  "dependencies": {
+    "lit": "^3.0.0"
+  }
+}
